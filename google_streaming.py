@@ -4,7 +4,7 @@ import time
 import threading
 from google.cloud import speech_v1 as speech
 
-os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "/Users/sushilkumarbarai/workspace/stream_bot/gtts.json"
+os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "/Users/sushil/gtts.json"
 
 class UserAudioStream:
     def __init__(self, user_id, rate=8000, chunk=1024):
