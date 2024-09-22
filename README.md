@@ -9,7 +9,7 @@ This Python project provides real-time audio transcription for multiple users us
 - [Google Cloud Setup](#google-cloud-setup)
 - [Usage](#usage)
 - [Use Case](#use-case)
-- [License](#license)
+
 
 ## Installation
 
@@ -113,6 +113,4 @@ This project can be used in various real-time voice transcription scenarios, suc
 
 4. The system automatically stops listening and closes all active sessions.
 
-## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
